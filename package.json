@@ -1,0 +1,37 @@
+{
+  "name": "flutter-light",
+  "displayName": "Flutter Theme",
+  "description": "A VS Code theme based on flutter.dev's code blocks. Light and Dark versions available.",
+  "version": "0.0.1",
+  "publisher": "V",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Theme",
+    "Flutter",
+    "Light Theme",
+    "Dark Theme"
+  ],
+  "engines": {
+    "vscode": "^1.79.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flutter Light",
+        "uiTheme": "vs",
+        "path": "./themes/flutter-light-color-theme.json"
+      },
+      {
+        "label": "Flutter Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flutter-dark-color-theme.json"
+      }
+    ]
+  }
+}
