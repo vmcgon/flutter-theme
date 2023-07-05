@@ -1,12 +1,12 @@
 {
-  "name": "flutter-light",
+  "name": "flutter-theme",
   "displayName": "Flutter Theme",
   "description": "A VS Code theme based on flutter.dev's code blocks. Light and Dark versions available.",
   "version": "0.0.1",
   "publisher": "vmcgon",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vmcgon/flutter-theme"
   },
   "keywords": [
     "Theme",
